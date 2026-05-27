@@ -1,0 +1,1292 @@
+[
+  {
+    "word": "urgent",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "immediately",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "act now",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "last chance",
+    "risk_level": "Medium",
+    "category": "Urgency"
+  },
+  {
+    "word": "limited time",
+    "risk_level": "Medium",
+    "category": "Urgency"
+  },
+  {
+    "word": "password",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "verify",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "login",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "bank",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "otp",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "pin",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "card update",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "account blocked",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "kyc",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "click",
+    "risk_level": "Low",
+    "category": "Action"
+  },
+  {
+    "word": "link",
+    "risk_level": "Low",
+    "category": "Action"
+  },
+  {
+    "word": "free money",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "lottery",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "prize",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "congratulations",
+    "risk_level": "Low",
+    "category": "Financial"
+  },
+  {
+    "word": "refund",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "tax",
+    "risk_level": "High",
+    "category": "Legal/Financial"
+  },
+  {
+    "word": "claim now",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "security breach",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "suspicious activity",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "identity theft",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "official notice",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "unauthorized access",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "confirm identity",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "validate",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "billing error",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "overdue",
+    "risk_level": "Medium",
+    "category": "Urgency"
+  },
+  {
+    "word": "payment failed",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "win cash",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "free gift",
+    "risk_level": "Low",
+    "category": "Financial"
+  },
+  {
+    "word": "exclusive offer",
+    "risk_level": "Low",
+    "category": "Marketing"
+  },
+  {
+    "word": "action required",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "help desk",
+    "risk_level": "Medium",
+    "category": "Support"
+  },
+  {
+    "word": "it support",
+    "risk_level": "Medium",
+    "category": "Support"
+  },
+  {
+    "word": "software update",
+    "risk_level": "Low",
+    "category": "Technical"
+  },
+  {
+    "word": "download",
+    "risk_level": "Low",
+    "category": "Action"
+  },
+  {
+    "word": "secure login",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "account deactivated",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "restore access",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "update account",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "verify account",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "confirm password",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "security alert",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "account suspended",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "account locked",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "reactivate",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "reset password",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "verify now",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "limited offer",
+    "risk_level": "Medium",
+    "category": "Marketing"
+  },
+  {
+    "word": "winner",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "guaranteed",
+    "risk_level": "Low",
+    "category": "Marketing"
+  },
+  {
+    "word": "instant reward",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "cash reward",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "bonus",
+    "risk_level": "Low",
+    "category": "Marketing"
+  },
+  {
+    "word": "claim reward",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "bank notice",
+    "risk_level": "High",
+    "category": "Authority"
+  },
+  {
+    "word": "government notice",
+    "risk_level": "High",
+    "category": "Authority"
+  },
+  {
+    "word": "official warning",
+    "risk_level": "High",
+    "category": "Authority"
+  },
+  {
+    "word": "legal notice",
+    "risk_level": "High",
+    "category": "Legal"
+  },
+  {
+    "word": "court notice",
+    "risk_level": "High",
+    "category": "Legal"
+  },
+  {
+    "word": "final warning",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "deadline",
+    "risk_level": "Medium",
+    "category": "Urgency"
+  },
+  {
+    "word": "account verification",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "customer support",
+    "risk_level": "Low",
+    "category": "Support"
+  },
+  {
+    "word": "technical team",
+    "risk_level": "Medium",
+    "category": "Support"
+  },
+  {
+    "word": "system upgrade",
+    "risk_level": "Low",
+    "category": "Technical"
+  },
+  {
+    "word": "malware detected",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "virus alert",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "device compromised",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "secure account",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "authentication",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "security verification",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "confirm details",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "update information",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "access now",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "login here",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "click here",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "open attachment",
+    "risk_level": "High",
+    "category": "Technical"
+  },
+  {
+    "word": "download attachment",
+    "risk_level": "High",
+    "category": "Technical"
+  },
+  {
+    "word": "wire transfer",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "transfer funds",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "invoice attached",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "pending invoice",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "outstanding payment",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "payment confirmation",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "bank transfer",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "direct deposit",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "salary update",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "payroll change",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "gift card",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "amazon voucher",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "crypto payment",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "bitcoin transfer",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "wallet address",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "account details",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "routing number",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "transaction id",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "payment gateway",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "authentication failed",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "login attempt",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "device verification",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "security code",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "backup code",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "recovery key",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "account recovery",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "confirm transaction",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "payment verification",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "fraud alert",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "risk detected",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "system notification",
+    "risk_level": "Low",
+    "category": "Technical"
+  },
+  {
+    "word": "account notice",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "administrator",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "compliance check",
+    "risk_level": "Medium",
+    "category": "Legal"
+  },
+  {
+    "word": "policy violation",
+    "risk_level": "Medium",
+    "category": "Legal"
+  },
+  {
+    "word": "document verification",
+    "risk_level": "Medium",
+    "category": "Legal"
+  },
+  {
+    "word": "identity verification",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "government update",
+    "risk_level": "High",
+    "category": "Authority"
+  },
+  {
+    "word": "tax refund",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "refund request",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "chargeback",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "billing notice",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "payment overdue",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "invoice reminder",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "confirm payment",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "verify billing",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "credential update",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "login credentials",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "account credential",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "session expired",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "login expired",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "relogin required",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "system administrator",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "network security",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "security patch",
+    "risk_level": "Low",
+    "category": "Technical"
+  },
+  {
+    "word": "update required",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "system alert",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "security warning",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "threat detected",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "payment request",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "bank notification",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "fund transfer",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "transfer confirmation",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "invoice document",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "billing statement",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "account statement",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "credit alert",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "debit alert",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "bank message",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "customer notice",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "service interruption",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "service suspension",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "account termination",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "immediate action",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "respond quickly",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "final notice",
+    "risk_level": "High",
+    "category": "Urgency"
+  },
+  {
+    "word": "time sensitive",
+    "risk_level": "Medium",
+    "category": "Urgency"
+  },
+  {
+    "word": "security verification required",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "fraud investigation",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "safety alert",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "security monitoring",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "threat alert",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "suspicious login",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "location verification",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "device confirmation",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "system security",
+    "risk_level": "Low",
+    "category": "Technical"
+  },
+  {
+    "word": "network alert",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "attachment included",
+    "risk_level": "High",
+    "category": "Technical"
+  },
+  {
+    "word": "file attachment",
+    "risk_level": "High",
+    "category": "Technical"
+  },
+  {
+    "word": "document attached",
+    "risk_level": "High",
+    "category": "Technical"
+  },
+  {
+    "word": "important document",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "confidential document",
+    "risk_level": "High",
+    "category": "Technical"
+  },
+  {
+    "word": "review document",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "open file",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "access document",
+    "risk_level": "Medium",
+    "category": "Action"
+  },
+  {
+    "word": "secure file",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "document link",
+    "risk_level": "High",
+    "category": "Technical"
+  },
+  {
+    "word": "portal access",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "employee portal",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "hr department",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "internal notice",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "company policy",
+    "risk_level": "Low",
+    "category": "Authority"
+  },
+  {
+    "word": "policy update",
+    "risk_level": "Low",
+    "category": "Authority"
+  },
+  {
+    "word": "mandatory verification",
+    "risk_level": "High",
+    "category": "Authority"
+  },
+  {
+    "word": "employee verification",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "corporate notice",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "official communication",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "company alert",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "system access",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "restricted access",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "account privilege",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "administrator access",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "security authentication",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "ceo request",
+    "risk_level": "High",
+    "category": "Social Engineering"
+  },
+  {
+    "word": "executive request",
+    "risk_level": "High",
+    "category": "Social Engineering"
+  },
+  {
+    "word": "manager request",
+    "risk_level": "Medium",
+    "category": "Social Engineering"
+  },
+  {
+    "word": "urgent assistance",
+    "risk_level": "High",
+    "category": "Social Engineering"
+  },
+  {
+    "word": "confidential task",
+    "risk_level": "High",
+    "category": "Social Engineering"
+  },
+  {
+    "word": "private request",
+    "risk_level": "High",
+    "category": "Social Engineering"
+  },
+  {
+    "word": "discreet payment",
+    "risk_level": "High",
+    "category": "Social Engineering"
+  },
+  {
+    "word": "company transfer",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "corporate payment",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "financial department",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "procurement request",
+    "risk_level": "Medium",
+    "category": "Authority"
+  },
+  {
+    "word": "vendor payment",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "supplier invoice",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "business proposal",
+    "risk_level": "Low",
+    "category": "Social Engineering"
+  },
+  {
+    "word": "investment opportunity",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "profit guarantee",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "earn money",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "passive income",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "crypto investment",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "investment platform",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "account upgrade",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "premium account",
+    "risk_level": "Low",
+    "category": "Marketing"
+  },
+  {
+    "word": "subscription renewal",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "membership renewal",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "billing subscription",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "automatic payment",
+    "risk_level": "Medium",
+    "category": "Financial"
+  },
+  {
+    "word": "unexpected charge",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "unauthorized charge",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "order confirmation",
+    "risk_level": "Medium",
+    "category": "Ecommerce"
+  },
+  {
+    "word": "shipping notice",
+    "risk_level": "Medium",
+    "category": "Delivery"
+  },
+  {
+    "word": "delivery failed",
+    "risk_level": "High",
+    "category": "Delivery"
+  },
+  {
+    "word": "package pending",
+    "risk_level": "High",
+    "category": "Delivery"
+  },
+  {
+    "word": "parcel tracking",
+    "risk_level": "Medium",
+    "category": "Delivery"
+  },
+  {
+    "word": "tracking number",
+    "risk_level": "Medium",
+    "category": "Delivery"
+  },
+  {
+    "word": "delivery confirmation",
+    "risk_level": "Medium",
+    "category": "Delivery"
+  },
+  {
+    "word": "shipment update",
+    "risk_level": "Medium",
+    "category": "Delivery"
+  },
+  {
+    "word": "courier service",
+    "risk_level": "Low",
+    "category": "Delivery"
+  },
+  {
+    "word": "delivery charge",
+    "risk_level": "Medium",
+    "category": "Delivery"
+  },
+  {
+    "word": "package fee",
+    "risk_level": "Medium",
+    "category": "Delivery"
+  },
+  {
+    "word": "customs fee",
+    "risk_level": "High",
+    "category": "Delivery"
+  },
+  {
+    "word": "release package",
+    "risk_level": "Medium",
+    "category": "Delivery"
+  },
+  {
+    "word": "shipment held",
+    "risk_level": "High",
+    "category": "Delivery"
+  },
+  {
+    "word": "delivery attempt",
+    "risk_level": "Medium",
+    "category": "Delivery"
+  },
+  {
+    "word": "support ticket",
+    "risk_level": "Low",
+    "category": "Support"
+  },
+  {
+    "word": "technical assistance",
+    "risk_level": "Medium",
+    "category": "Support"
+  },
+  {
+    "word": "help request",
+    "risk_level": "Low",
+    "category": "Support"
+  },
+  {
+    "word": "remote access",
+    "risk_level": "High",
+    "category": "Technical"
+  },
+  {
+    "word": "screen sharing",
+    "risk_level": "High",
+    "category": "Technical"
+  },
+  {
+    "word": "tech support",
+    "risk_level": "Medium",
+    "category": "Support"
+  },
+  {
+    "word": "system repair",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "computer infected",
+    "risk_level": "High",
+    "category": "Security"
+  },
+  {
+    "word": "virus removal",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "malware cleanup",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "security cleanup",
+    "risk_level": "Medium",
+    "category": "Security"
+  },
+  {
+    "word": "device protection",
+    "risk_level": "Low",
+    "category": "Security"
+  },
+  {
+    "word": "data protection",
+    "risk_level": "Low",
+    "category": "Security"
+  },
+  {
+    "word": "lottery winner unique",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "urgent verification test",
+    "risk_level": "High",
+    "category": "Testing"
+  },
+  {
+    "word": "verify your wallet",
+    "risk_level": "High",
+    "category": "Financial"
+  },
+  {
+    "word": "anti-virus update",
+    "risk_level": "Medium",
+    "category": "Technical"
+  },
+  {
+    "word": "anti-virus update 2",
+    "risk_level": "Medium",
+    "category": "Technical"
+  }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "username": "admin",
+        "password": "$2b$12$YOUR_GENERATED_HASH_HERE",
+        "role": "admin"
+    },
+    {
+        "username": "directuser",
+        "password": "$2b$12$M/sTvsbRi4/zbeyDDSXLIuYxMM6RQaBqXLCLlj2Ib2marZHMG.g9.",
+        "role": "user"
+    },
+    {
+        "username": "testuser",
+        "password": "$2b$12$NXvIuncwWS47XMWwke4ndeTRLHEHpkeAcGpwHEh0fjs11DE/tPe8e",
+        "role": "user"
+    },
+    {
+        "username": "Hardik Poddar",
+        "password": "$2b$12$o0/OR0cBq8JJO7W/lqK0JO38KLor4ksU2FdJTOuucn3uaOgpQiBEC",
+        "role": "user"
+    },
+    {
+        "username": "Rose",
+        "password": "$2b$12$R/hTtN0/4uf8EOCFK/Mfm.I2L7Y8Zm0DeZXPcbHnRF1xV0GeLAu9q",
+        "phone": "987654321",
+        "role": "user"
+    }
+]

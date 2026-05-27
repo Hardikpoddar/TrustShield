@@ -1,0 +1,26 @@
+[
+    {
+        "report_type": "Phishing Email",
+        "content": "Your account has been blocked. Click here to verify.",
+        "link": "http://fake-bank-login.com",
+        "notes": "Received this email today"
+    },
+    {
+        "report_type": "Phishing Email",
+        "content": "Checking Submit button after CSS fix",
+        "link": "http://test.com",
+        "notes": ""
+    },
+    {
+        "report_type": "Phishing Email",
+        "content": "Dear Customer,\n\nYour bank account has been temporarily suspended due to unusual activity. \nPlease verify your account immediately to avoid permanent suspension.\n\nClick here to verify: http://secure-bank-login-update.com\n\nFailure to verify within 24 hours will result in account closure.\n\nThank you,\nCustomer Support Team",
+        "link": null,
+        "notes": null
+    },
+    {
+        "report_type": "Phishing Email",
+        "content": "Your package delivery has been delayed due to an incorrect address. \nPlease update your shipping information immediately.\n\nUpdate here: http://delivery-update-center.com\n\nIf not updated within 12 hours, the package will be returned.",
+        "link": "http://delivery-update-center.com",
+        "notes": "Received via SMS message."
+    }
+]

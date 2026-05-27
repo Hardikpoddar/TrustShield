@@ -1,0 +1,1 @@
+["url_length", "num_dots", "has_ip", "has_at", "uses_https", "susp_keywords_url", "digit_letter_ratio", "num_subdomains", "special_char_count", "hyphen_in_domain", "domain_age_days", "is_recent_domain", "registrar_freq", "has_a_record", "has_mx_record", "count_ns"]

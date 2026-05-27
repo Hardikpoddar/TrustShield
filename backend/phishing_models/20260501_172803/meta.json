@@ -1,0 +1,36 @@
+{
+  "trained_at": "20260501_172803",
+  "raw_data_path": "D:\\MCA-FINAL PROJECT\\phishing_detector\\phishing_detector\\data\\raw\\merged_dataset.xlsx",
+  "engineered_out": "D:\\MCA-FINAL PROJECT\\phishing_detector\\phishing_detector\\data\\processed\\final_engineered_features.csv",
+  "use_whois_dns": false,
+  "models_saved": [
+    "logistic_regression.pkl",
+    "random_forest.pkl",
+    "xgboost.pkl",
+    "scaler.pkl",
+    "feature_columns.json"
+  ],
+  "metrics": {
+    "logistic_regression": {
+      "accuracy": 0.92425,
+      "precision": 0.948230322239831,
+      "recall": 0.8975,
+      "f1": 0.9221679938350886,
+      "roc_auc": 0.9774433750000001
+    },
+    "random_forest": {
+      "accuracy": 0.9665,
+      "precision": 0.9627976190476191,
+      "recall": 0.9705,
+      "f1": 0.9666334661354582,
+      "roc_auc": 0.994565
+    },
+    "xgboost": {
+      "accuracy": 0.9645,
+      "precision": 0.9585389930898321,
+      "recall": 0.971,
+      "f1": 0.964729259811227,
+      "roc_auc": 0.9950426250000001
+    }
+  }
+}

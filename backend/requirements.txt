@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+motor
+pymongo
+python-dotenv
+bcrypt
+numpy
+tldextract
+joblib
+requests
+xgboost
+python-multipart
+email-validator
+scikit-learn
+pandas
+passlib[bcrypt]
+python-jose[cryptography]
